@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza Margherita",
+    "price": 10.99,
+    "orders": 1,
+
+    "imageUrl": "https://media.istockphoto.com/id/1280329631/photo/italian-pizza-margherita-with-tomatoes-and-mozzarella-cheese-on-wooden-cutting-board-close-up.jpg?b=1&s=170667a&w=0&k=20&c=_t83ocY59IayPnspluN99xOM_RQ5ytAMTfXQperbL_I="
+  },
+  {
+    "id": 2,
+    "name": "Spaghetti Bolognese",
+    "price": 12.99,
+    "orders": 1,
+    "imageUrl": "https://media.istockphoto.com/id/1166681454/photo/spaghetti-with-bolognese-sauce-and-parmesan-cheese.jpg?s=612x612&w=0&k=20&c=GPj2Aab-nvTbDQFM6iJIDfm59omhbQJ7aj-HHJqf_rU="
+  },
+  {
+    "id": 3,
+    "name": "Caesar Salad",
+    "price": 8.99,
+     "orders": 1,
+    "imageUrl": "https://media.istockphoto.com/id/534139231/photo/healthy-grilled-chicken-caesar-salad.jpg?s=612x612&w=0&k=20&c=TR_sE5S5ChmjFywg3dh_J5V_ha-BcwgTU26BvsgbsjY="
+  },
+  {
+    "id": 4,
+    "name": "Grilled Chicken Sandwich",
+    "price": 9.99,
+     "orders": 1,
+    "imageUrl": "https://media.istockphoto.com/id/499513607/photo/healthy-grilled-chicken-sandwich.jpg?s=612x612&w=0&k=20&c=zu3ZlJlphELyyX0ZpnJzKpUgo-47sKCepmjbimf5cS0="
+  },
+  {
+    "id": 5,
+    "name": "Beef Burger",
+    "price": 11.99,
+    "orders": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YmVlZiUyMGJ1cmdlcnxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Fish and Chips",
+    "price": 13.99,
+    "orders": 1,
+    "imageUrl": "https://media.istockphoto.com/id/1178035212/photo/british-traditional-fish-and-chips-with-mashed-peas-tartar-sauce-and-cold-beer.jpg?s=612x612&w=0&k=20&c=10IPCrlJ067jWKtaN9CVlWfPA8XDM451dZk23lMP9_Q="
+  },
+  {
+    "id": 7,
+    "name": "Vegetable Stir-Fry",
+    "price": 10.99,
+     "orders": 1,
+    "imageUrl": "https://media.istockphoto.com/id/617352836/photo/stir-fry-with-chicken.jpg?s=612x612&w=0&k=20&c=W_x_39ggrwzmcdWBZO4e4J440a645UPEAdzGv29tlxU="
+  },
+  {
+    "id": 8,
+    "name": "Cheesecake",
+    "price": 6.99,
+     "orders": 1,
+    "imageUrl": "https://media.istockphoto.com/id/1167344045/photo/cheesecake-slice-new-york-style-classical-cheese-cake.jpg?s=612x612&w=0&k=20&c=y3eh7cFEefAYxB_5Ow2n1OJZML_PqFOdnB5Z9nvXdgw="
+   }
+ 
+]
